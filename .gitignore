@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# Ignore environment variables file
+.env
+
+.DS_Store
+.vscode
+.settings
+.idea
